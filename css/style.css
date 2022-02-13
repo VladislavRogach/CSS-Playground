@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&family=Syne+Tactile&display=swap');
+
+body {
+    background-color: bisque;
+}
+
+.heading{
+    text-align: center;
+}
+
+.playground-heading{
+    color: cornflowerblue;
+    font-family: 'Redressed', cursive;
+    font-size: 3rem;
+}
+
+.main{
+    border: 3px solid blue; 
+    width: 55%; 
+    margin: 1rem auto;
+}
+
+.main div{
+    width: 200px; 
+    height: 200px; 
+    border: 2px solid violet;
+    border-radius: 50%;
+    margin: 1rem auto;
+}
+
+#red{
+    border-color: violet;
+}
+
+#pinkblue{
+    border-color: blueviolet;
+}
+
+#purple{
+    border-color: purple;
+}
+
+.footer{
+    text-align: center;
+    font-family: 'Syne Tactile', cursive;
+    font-size: 20px;
+    color: blue;
+}
